@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Garima\AndroidStudioProjects\GitTest\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\libs\internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="C:\Users\Garima\AndroidStudioProjects\GitTest\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.1-33e68b8b814fa2b97d94521d3b7b9331e90ad582.jar" />
+    </item>
+    <item
+        jar="C:\adt-bundle-windows-x86_64-20130729\adt-bundle-windows-x86_64-20130729\sdk\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="C:\Users\Garima\AndroidStudioProjects\GitTest\app\build\intermediates\pre-dexed\debug\support-annotations-22.1.1-d15a65179f606b7460995534a275d54b8ee8341d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Garima\AndroidStudioProjects\GitTest\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="C:\Users\Garima\AndroidStudioProjects\GitTest\app\build\intermediates\pre-dexed\debug\classes-f75bf98a586b1c53374bc4b7ec730b6b2518490c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Garima\AndroidStudioProjects\GitTest\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="C:\Users\Garima\AndroidStudioProjects\GitTest\app\build\intermediates\pre-dexed\debug\classes-1fb07d0d7e147830c8ce9ec9f6794abfe8d79148.jar" />
+    </item>
+
+</items>
