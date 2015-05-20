@@ -14,7 +14,7 @@ public class MainActivity extends ActionBarActivity {
         setContentView(R.layout.activity_main);
         // This is minor change.
         // Second Change.
-        // Third Change.
+
     }
 
     @Override
