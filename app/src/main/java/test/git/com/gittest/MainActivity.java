@@ -13,7 +13,7 @@ public class MainActivity extends ActionBarActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
        //jenkins auto tigger
-        //saiyed sahir and sahir
+       // test automation
 
 
     }
